@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Simple Calculator",
+        "code": "https://github.com/Bammytoye/calculator"
+    },
+    {
+        "id": 2,
+        "name": "Zeke ToDo List",
+        "code": "https://github.com/Bammytoye/todolist"
+    },
+    {
+        "id": 3,
+        "name": "Bike Landing Page",
+        "code": "https://github.com/Bammytoye/Bike1"
+    },
+    {
+        "id": 4,
+        "name": "Zeke Tic Tac Toe",
+        "code": "https://github.com/Bammytoye/tic"
+    },
+    {
+        "id": 5,
+        "name": "Scientific Calculator",
+        "code": "https://github.com/Bammytoye/Scientific-Calculator-"
+    },
+    {
+        "id": 6,
+        "name": "Student Grade Calculator",
+        "code": "https://github.com/Bammytoye/Student-Grade-"
+    },
+    {
+        "id": 7,
+        "name": "Country App",
+        "code": "https://github.com/Bammytoye/Countries-App"
+    }
+]
