@@ -43,7 +43,7 @@ const Contact = () => {
             </form>
 
             <p className="text-lg m-7 tracking-wider font-medium">
-                Copyright Zeke <span>{new Date().getFullYear()}</span>
+                Copyright AremoJago Esq<span>{new Date().getFullYear()}</span>
             </p>
         </div>
     )

@@ -1,5 +1,7 @@
-import myPic from "../assets/toye.jpg";
-import CV from "../assets/BAMIGBALA Ezekiel Adetoyese Dev Cv.pdf";
+// import myPic from "../assets/toye.jpg";
+import myPic from "../assets/Idan.jpg"
+// import CV from "../assets/BAMIGBALA Ezekiel Adetoyese Dev Cv.pdf";
+import CV from "../assets/JagoCV.pdf";
 import { FiFileText} from "react-icons/fi"
 
 const About = () => {
@@ -17,7 +19,7 @@ const About = () => {
             <div className="w-1/2 flex flex-col justify-between md:gap-y-8">
                 <div>
                     <h2 className="text-2xl font-bold uppercase mb-3 flex justify-center items-center">
-                        I am Front End Developer
+                        I am Full-stack Developer
                     </h2>
 
                     <p className="text-xl first-letter:ml-10 first-letter:text-2xl text-justify">
@@ -58,8 +60,8 @@ const About = () => {
                     </ul>
 
                     <ul>
-                        <li className="md:text-xl md:font-bold">Bamigbala Ezekiel</li>
-                        <li className="md:text-xl md:font-bold">BammyToye (Zeke)</li>
+                        <li className="md:text-xl md:font-bold">Samuel Kayode</li>
+                        <li className="md:text-xl md:font-bold">Aremo Jago</li>
                     </ul>
 
                     <ul className="font-semibold uppercase">
@@ -68,7 +70,7 @@ const About = () => {
                     </ul>
 
                     <ul>
-                        <li className="md:text-xl md:font-bold">bamigbalatoyese@gmail.com</li>
+                        <li className="md:text-xl md:font-bold">Akanjisamuel708@gmail.com</li>
                         <li className="md:text-xl md:font-bold">Nigeria</li>
                     </ul>
                 </div>

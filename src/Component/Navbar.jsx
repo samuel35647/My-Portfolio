@@ -22,7 +22,7 @@ window.addEventListener("scroll", changeNavBarColor);
             (navColor && "bg-gray-700 shadow-md")}>
             {/* logo */}
             <a href="#home" className="font-bold italic text-white text-xl z-20" onClick={changeNav}>
-                Bammy Toye
+                Samuel Kayode
             </a>
 
             {/* Navigation */}

@@ -2,22 +2,22 @@
     {
         "id": 1,
         "name": "Simple Calculator",
-        "code": "https://github.com/Bammytoye/calculator"
+         "code": "https://github.com/samuel35647/Simple-Calculator"
     },
     {
         "id": 2,
-        "name": "Zeke ToDo List",
-        "code": "https://github.com/Bammytoye/todolist"
+        "name": "Jago ToDo List",
+        "code": "https://github.com/samuel35647/TodoList"
     },
     {
         "id": 3,
         "name": "Bike Landing Page",
-        "code": "https://github.com/Bammytoye/Bike1"
+        "code": "https://github.com/samuel35647/jago"
     },
     {
         "id": 4,
-        "name": "Zeke Tic Tac Toe",
-        "code": "https://github.com/Bammytoye/tic"
+        "name": "School portal",
+        "code": "https://github.com/samuel35647/School-Portal"
     },
     {
         "id": 5,
@@ -26,12 +26,12 @@
     },
     {
         "id": 6,
-        "name": "Student Grade Calculator",
-        "code": "https://github.com/Bammytoye/Student-Grade-"
+        "name": "Love Calculator",
+        "code": "https://github.com/samuel35647/My-Love-Calculator"
     },
     {
         "id": 7,
         "name": "Country App",
-        "code": "https://github.com/Bammytoye/Countries-App"
+        "code": "https://github.com/samuel35647/Countries-App"
     }
 ]
